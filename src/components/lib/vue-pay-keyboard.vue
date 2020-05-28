@@ -1,5 +1,5 @@
 <template>
-  <transition name="shield">遮挡
+  <transition name="shield">
     <div class="pay-box" v-if="isPay">
       <div class="keyboard" v-if="isPay">
         <!-- 标题 -->
